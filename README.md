@@ -6,7 +6,7 @@ Autoclicker that uses the time.h library and the clock functions to show time be
 
 The Autoclicker itself is just a basic no delay autoclicker using mouse_event to simulate the clicks.
 
-![CPS Test](https://i.gyazo.com/d50280a142d2040d1e6cac9ef313a782.mp4)
+![CPS Test](https://gyazo.com/d50280a142d2040d1e6cac9ef313a782)
 
 ## Efficiency
 
