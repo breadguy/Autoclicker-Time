@@ -1,0 +1,3 @@
+[submodule "Release"]
+	path = Release
+	url = https://github.com/breadguy/Autoclicker-Time.git
