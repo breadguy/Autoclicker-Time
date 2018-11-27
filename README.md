@@ -6,7 +6,7 @@ Autoclicker that uses the time.h library and the clock functions to show time be
 
 The Autoclicker itself is just a basic no delay autoclicker using mouse_event to simulate the clicks.
 
-*Will fix gifs soon!
+*Will inline gifs soon!
 https://gyazo.com/d50280a142d2040d1e6cac9ef313a782
 
 ## Efficiency
@@ -21,5 +21,5 @@ While in small increments Sleep can be a useful and simpler alternative; say you
 
 Displays the time it takes to execute certain actions.
 
-*Will fix gifs soon!
+*Will inline gifs soon!
 https://i.gyazo.com/5977b498f20862e75a2cfa15e19862f7.mp4
